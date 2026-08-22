@@ -2106,12 +2106,17 @@
       ]
     },
     "Sacombank": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-23",
       "rounds": [
         {
           "date": "2026-07-31",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-23",
           "investors": [],
           "round": null
         }
@@ -2362,6 +2367,18 @@
           "date": "2026-07-11",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "Target": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "rounds": [
+        {
+          "date": "2026-08-23",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -2669,6 +2686,18 @@
       "rounds": [
         {
           "date": "2026-08-13",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Walmart": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "rounds": [
+        {
+          "date": "2026-08-23",
           "investors": [],
           "round": null
         }
@@ -5035,6 +5064,12 @@
       "last_seen": "2026-08-12",
       "notes": []
     },
+    "Chính sách thuế": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
     "Chính sách thuế quan": {
       "count": 1,
       "first_seen": "2026-07-25",
@@ -5363,6 +5398,12 @@
       "count": 9,
       "first_seen": "2026-07-21",
       "last_seen": "2026-08-17",
+      "notes": []
+    },
+    "Kinh tế xanh": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Kết quả kinh doanh": {
@@ -5863,6 +5904,12 @@
       "last_seen": "2026-07-19",
       "notes": []
     },
+    "Thị trường trái phiếu": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
     "Thị trường vàng": {
       "count": 2,
       "first_seen": "2026-07-19",
@@ -5879,6 +5926,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Tiêu dùng Mỹ": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Token Compression Skepticism": {
