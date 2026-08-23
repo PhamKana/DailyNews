@@ -914,9 +914,9 @@
       ]
     },
     "FTSE Russell": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-24",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -925,6 +925,11 @@
         },
         {
           "date": "2026-08-17",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-24",
           "investors": [],
           "round": null
         }
@@ -1979,6 +1984,18 @@
           "date": "2026-07-14",
           "investors": [],
           "round": "N/A"
+        }
+      ]
+    },
+    "PwC": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "rounds": [
+        {
+          "date": "2026-08-24",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -4282,6 +4299,12 @@
       "last_seen": "2026-08-05",
       "notes": []
     },
+    "Hải quan số": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "notes": []
+    },
     "IDE integration": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -5041,9 +5064,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "notes": []
     },
     "Chuyển đổi xanh": {
@@ -5122,6 +5145,12 @@
       "count": 1,
       "first_seen": "2026-07-17",
       "last_seen": "2026-07-17",
+      "notes": []
+    },
+    "Căng thẳng thương mại": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
       "notes": []
     },
     "Căng thẳng thương mại hàng không": {
@@ -5688,6 +5717,12 @@
       "last_seen": "2026-08-07",
       "notes": []
     },
+    "Quản trị doanh nghiệp gia đình": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "notes": []
+    },
     "Quản trị rủi ro": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -5905,9 +5940,9 @@
       "notes": []
     },
     "Thị trường trái phiếu": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "notes": []
     },
     "Thị trường vàng": {
