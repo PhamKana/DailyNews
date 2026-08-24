@@ -1024,6 +1024,18 @@
         }
       ]
     },
+    "Giấy Lam Sơn Thanh Hóa": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Goodwater Capital": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -5100,9 +5112,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -5166,9 +5178,9 @@
       "notes": []
     },
     "Cải cách hành chính": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Cải cách pháp lý ngân hàng": {
@@ -5639,6 +5651,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Pháp lý ngân hàng": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
     "Pháp lý thị trường vốn": {
       "count": 1,
       "first_seen": "2026-07-30",
@@ -5712,9 +5730,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
