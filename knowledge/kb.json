@@ -697,6 +697,18 @@
         }
       ]
     },
+    "Công ty Cổ phần Xây dựng – Địa ốc Cao su": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "rounds": [
+        {
+          "date": "2026-08-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty TNHH Kiểm toán và Tư vấn A&C": {
       "count": 1,
       "first_seen": "2026-07-23",
@@ -2260,9 +2272,9 @@
       ]
     },
     "SpaceX": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-26",
       "rounds": [
         {
           "date": "2026-07-24",
@@ -2276,6 +2288,11 @@
         },
         {
           "date": "2026-08-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-26",
           "investors": [],
           "round": null
         }
@@ -3407,6 +3424,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "SpaceX": {
+      "count": 1,
+      "domain": "Hàng không vũ trụ",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26"
+    },
     "Sản xuất khoáng sản": {
       "count": 1,
       "domain": "Công nghiệp chiến lược",
@@ -4108,9 +4131,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-26",
       "notes": []
     },
     "Chuyển đổi số ngân hàng": {
@@ -4309,6 +4332,12 @@
       "count": 1,
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "Hạ tầng vũ trụ": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
       "notes": []
     },
     "Hải quan số": {
@@ -5399,6 +5428,12 @@
       "last_seen": "2026-08-06",
       "notes": []
     },
+    "Hợp tác kinh tế Việt-Nga": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "notes": []
+    },
     "IPO": {
       "count": 1,
       "first_seen": "2026-08-22",
@@ -5429,6 +5464,12 @@
       "last_seen": "2026-08-22",
       "notes": []
     },
+    "Kinh tế tuần hoàn": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "notes": []
+    },
     "Kinh tế tư nhân": {
       "count": 1,
       "first_seen": "2026-08-11",
@@ -5439,6 +5480,12 @@
       "count": 9,
       "first_seen": "2026-07-21",
       "last_seen": "2026-08-17",
+      "notes": []
+    },
+    "Kinh tế vũ trụ": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
       "notes": []
     },
     "Kinh tế xanh": {
@@ -6150,9 +6197,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-26",
       "notes": []
     },
     "Địa chính trị công nghệ": {
