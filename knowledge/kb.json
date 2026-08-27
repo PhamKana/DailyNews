@@ -1135,6 +1135,18 @@
         }
       ]
     },
+    "Home Credit Việt Nam": {
+      "count": 1,
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "rounds": [
+        {
+          "date": "2026-08-27",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Homefarm": {
       "count": 1,
       "first_seen": "2026-07-19",
@@ -1166,6 +1178,18 @@
       "rounds": [
         {
           "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Hòa Phát": {
+      "count": 1,
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "rounds": [
+        {
+          "date": "2026-08-27",
           "investors": [],
           "round": null
         }
@@ -5051,9 +5075,9 @@
       "notes": []
     },
     "Bất động sản": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-27",
       "notes": []
     },
     "Can thiệp ngoại hối": {
@@ -5141,9 +5165,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-27",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -5477,9 +5501,9 @@
       "notes": []
     },
     "Kinh tế vĩ mô": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-27",
       "notes": []
     },
     "Kinh tế vũ trụ": {
@@ -6052,6 +6076,12 @@
       "last_seen": "2026-07-24",
       "notes": []
     },
+    "Tài chính tiêu dùng": {
+      "count": 1,
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "notes": []
+    },
     "Tái cơ cấu ngân hàng": {
       "count": 1,
       "first_seen": "2026-07-31",
@@ -6191,9 +6221,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-27",
       "notes": []
     },
     "Địa chính trị": {
