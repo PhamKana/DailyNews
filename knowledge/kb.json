@@ -3539,6 +3539,12 @@
       "domain": "Autonomy Stack",
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27"
+    },
+    "Điện hạt nhân": {
+      "count": 1,
+      "domain": "Năng lượng",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30"
     }
   },
   "investors": {
@@ -5088,6 +5094,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "An ninh mạng": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "notes": []
+    },
     "An ninh năng lượng": {
       "count": 1,
       "first_seen": "2026-08-14",
@@ -5719,9 +5731,9 @@
       "notes": []
     },
     "Năng lượng": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "notes": []
     },
     "Nợ công": {
@@ -6049,9 +6061,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-30",
       "notes": []
     },
     "Thị trường bán lẻ": {
@@ -6118,6 +6130,12 @@
       "count": 1,
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Tiêu dùng nội địa": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "notes": []
     },
     "Token Compression Skepticism": {
