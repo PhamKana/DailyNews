@@ -1591,6 +1591,18 @@
         }
       ]
     },
+    "MediaTek": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "rounds": [
+        {
+          "date": "2026-09-01",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Menlo Ventures": {
       "count": 1,
       "first_seen": "2026-06-23",
@@ -1857,9 +1869,9 @@
       ]
     },
     "Nvidia": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-01",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -1873,6 +1885,11 @@
         },
         {
           "date": "2026-08-28",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-01",
           "investors": [],
           "round": null
         }
@@ -2474,6 +2491,18 @@
       "rounds": [
         {
           "date": "2026-08-31",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Super Hi International": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "rounds": [
+        {
+          "date": "2026-09-01",
           "investors": [],
           "round": null
         }
@@ -3234,10 +3263,10 @@
       "last_seen": "2026-07-08"
     },
     "Bán dẫn": {
-      "count": 2,
-      "domain": "Công nghiệp công nghệ cao",
+      "count": 3,
+      "domain": "Thiết kế chip tùy chỉnh",
       "first_seen": "2026-08-09",
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-09-01"
     },
     "Contextual Emotion AI": {
       "count": 1,
@@ -4287,6 +4316,12 @@
       "last_seen": "2026-07-25",
       "notes": []
     },
+    "Chip AI": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
     "Chuyển đổi số": {
       "count": 3,
       "first_seen": "2026-07-30",
@@ -4429,6 +4464,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "GPU": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
       "notes": []
     },
     "GPU Computing": {
@@ -5261,6 +5302,12 @@
       "last_seen": "2026-07-06",
       "notes": []
     },
+    "Chiến lược chip AI": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
     "Chiến tranh thương mại": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -5451,6 +5498,12 @@
       "count": 1,
       "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Du lịch OCOP": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
       "notes": []
     },
     "E-commerce Regulation": {
@@ -5691,6 +5744,12 @@
       "count": 1,
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Kinh tế Ấn Độ": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
       "notes": []
     },
     "Kết quả kinh doanh": {
@@ -6243,6 +6302,12 @@
       "count": 1,
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Tiêu dùng dịch vụ": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
       "notes": []
     },
     "Tiêu dùng nội địa": {
