@@ -2877,10 +2877,22 @@
         }
       ]
     },
+    "Vincom Retail": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Vingroup": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-02",
       "rounds": [
         {
           "date": "2026-07-22",
@@ -2896,16 +2908,38 @@
           "date": "2026-08-13",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
         }
       ]
     },
     "Vinhomes": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-02",
       "rounds": [
         {
           "date": "2026-08-13",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Vinpearl": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
           "investors": [],
           "round": null
         }
@@ -5356,6 +5390,12 @@
       "last_seen": "2026-08-12",
       "notes": []
     },
+    "Chính sách nhà ở": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
     "Chính sách thuế": {
       "count": 1,
       "first_seen": "2026-08-23",
@@ -5584,6 +5624,12 @@
       "last_seen": "2026-07-19",
       "notes": []
     },
+    "FDI khu vực": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
     "Fintech & Payment Systems": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -5684,6 +5730,12 @@
       "count": 1,
       "first_seen": "2026-08-26",
       "last_seen": "2026-08-26",
+      "notes": []
+    },
+    "Hợp tác quốc tế": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "IPO": {
@@ -5894,6 +5946,12 @@
       "count": 1,
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "Nông nghiệp xuất khẩu": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Năng lượng": {
