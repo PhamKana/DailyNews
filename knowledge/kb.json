@@ -637,6 +637,18 @@
         }
       ]
     },
+    "Chevron": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "rounds": [
+        {
+          "date": "2026-09-03",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Chứng khoán Bảo Minh": {
       "count": 1,
       "first_seen": "2026-07-22",
@@ -2034,6 +2046,18 @@
         }
       ]
     },
+    "PYN Elite Fund": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "rounds": [
+        {
+          "date": "2026-09-03",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Palantir": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -2241,12 +2265,17 @@
       ]
     },
     "SHB": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-03",
       "rounds": [
         {
           "date": "2026-07-21",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-03",
           "investors": [],
           "round": null
         }
@@ -2562,9 +2591,9 @@
       ]
     },
     "TPBank": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-09-03",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2573,6 +2602,11 @@
         },
         {
           "date": "2026-07-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-03",
           "investors": [],
           "round": null
         }
@@ -2755,12 +2789,17 @@
       ]
     },
     "VPBank": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-09-03",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-03",
           "investors": [],
           "round": null
         }
@@ -5841,9 +5880,9 @@
       "notes": []
     },
     "Lãi suất": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-09-03",
       "notes": []
     },
     "Lạm phát": {
@@ -5955,9 +5994,9 @@
       "notes": []
     },
     "Năng lượng": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-03",
       "notes": []
     },
     "Nợ công": {
@@ -6243,9 +6282,9 @@
       "notes": []
     },
     "Thanh khoản": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-03",
       "notes": []
     },
     "Thanh khoản doanh nghiệp": {
@@ -6558,6 +6597,12 @@
       "count": 1,
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15",
+      "notes": []
+    },
+    "Định giá tài sản": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
       "notes": []
     }
   }
