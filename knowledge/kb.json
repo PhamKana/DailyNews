@@ -2705,12 +2705,17 @@
       ]
     },
     "TikTok Shop": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-09-04",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-04",
           "investors": [],
           "round": null
         }
@@ -3033,13 +3038,18 @@
       ]
     },
     "Xiaomi": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-06-28",
-      "last_seen": "2026-06-28",
+      "last_seen": "2026-09-04",
       "rounds": [
         {
           "date": "2026-06-28",
           "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-04",
+          "investors": [],
           "round": null
         }
       ]
@@ -5145,6 +5155,12 @@
       "last_seen": "2026-08-16",
       "notes": []
     },
+    "Xe điện": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
     "Xe điện thông minh": {
       "count": 1,
       "first_seen": "2026-08-15",
@@ -5173,6 +5189,12 @@
       "count": 1,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Điện khí": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Điện khí LNG": {
@@ -5304,9 +5326,9 @@
       "notes": []
     },
     "An ninh năng lượng": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Autonomy Stack": {
@@ -6335,6 +6357,12 @@
       "last_seen": "2026-08-30",
       "notes": []
     },
+    "Thương mại điện tử": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
     "Thị trường bán lẻ": {
       "count": 1,
       "first_seen": "2026-07-19",
@@ -6561,6 +6589,18 @@
       "count": 1,
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "Xe điện": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Xuất khẩu": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
