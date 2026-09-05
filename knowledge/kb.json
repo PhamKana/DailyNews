@@ -942,6 +942,18 @@
         }
       ]
     },
+    "Dược Enlie": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-09-05",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "ETS Connect UK": {
       "count": 1,
       "first_seen": "2026-06-22",
@@ -5319,6 +5331,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "An ninh lương thực": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
     "An ninh mạng": {
       "count": 1,
       "first_seen": "2026-08-30",
@@ -5353,6 +5371,12 @@
       "count": 1,
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Biến đổi khí hậu": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Bán dẫn": {
@@ -5781,6 +5805,12 @@
       "last_seen": "2026-08-06",
       "notes": []
     },
+    "Hợp tác kinh tế": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
     "Hợp tác kinh tế Việt-Mỹ": {
       "count": 1,
       "first_seen": "2026-08-31",
@@ -5908,9 +5938,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Lợi nhuận doanh nghiệp": {
