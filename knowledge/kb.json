@@ -5494,9 +5494,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-07",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -5872,9 +5872,9 @@
       "notes": []
     },
     "Kinh tế vĩ mô": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-07",
       "notes": []
     },
     "Kinh tế vũ trụ": {
@@ -6628,9 +6628,9 @@
       "notes": []
     },
     "Xuất khẩu": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-07",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
@@ -6649,6 +6649,12 @@
       "count": 2,
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
+      "notes": []
+    },
+    "Đầu tư FDI": {
+      "count": 1,
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
       "notes": []
     },
     "Đầu tư công": {
