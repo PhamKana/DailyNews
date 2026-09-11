@@ -150,12 +150,17 @@
       ]
     },
     "Airbus": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-09-11",
       "rounds": [
         {
           "date": "2026-07-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-11",
           "investors": [],
           "round": null
         }
@@ -341,9 +346,9 @@
       ]
     },
     "BIDV": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-11",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -362,6 +367,11 @@
         },
         {
           "date": "2026-08-06",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-11",
           "investors": [],
           "round": null
         }
@@ -2928,6 +2938,18 @@
         },
         {
           "date": "2026-07-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Vietravel Airlines": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "rounds": [
+        {
+          "date": "2026-09-11",
           "investors": [],
           "round": null
         }
@@ -5558,9 +5580,9 @@
       "notes": []
     },
     "Chính sách thuế": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-11",
       "notes": []
     },
     "Chính sách thuế quan": {
@@ -6020,9 +6042,9 @@
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-11",
       "notes": []
     },
     "Lạm phát và giá dầu": {
@@ -6446,9 +6468,9 @@
       "notes": []
     },
     "Thanh khoản ngân hàng": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-11",
       "notes": []
     },
     "Thanh khoản thị trường vốn": {
@@ -6716,9 +6738,9 @@
       "notes": []
     },
     "Xuất khẩu": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-11",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
