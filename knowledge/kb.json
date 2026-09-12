@@ -1239,6 +1239,18 @@
         }
       ]
     },
+    "HSBC": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "rounds": [
+        {
+          "date": "2026-09-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "HeyGen": {
       "count": 1,
       "first_seen": "2026-06-23",
@@ -2602,6 +2614,18 @@
       "rounds": [
         {
           "date": "2026-07-23",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Sông Đà – Nha Trang": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "rounds": [
+        {
+          "date": "2026-09-12",
           "investors": [],
           "round": null
         }
@@ -5592,9 +5616,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-12",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6305,6 +6329,12 @@
       "last_seen": "2026-07-29",
       "notes": []
     },
+    "Quản trị danh mục": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "notes": []
+    },
     "Quản trị doanh nghiệp": {
       "count": 5,
       "first_seen": "2026-07-21",
@@ -6492,9 +6522,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-12",
       "notes": []
     },
     "Thương mại điện tử": {
@@ -6552,9 +6582,9 @@
       "notes": []
     },
     "Thị trường vốn": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-12",
       "notes": []
     },
     "Time Series Foundation Models": {
