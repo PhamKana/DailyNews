@@ -377,6 +377,18 @@
         }
       ]
     },
+    "BRG": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "BSR": {
       "count": 1,
       "first_seen": "2026-08-07",
@@ -1210,6 +1222,18 @@
       "rounds": [
         {
           "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Grab": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
           "investors": [],
           "round": null
         }
@@ -5580,9 +5604,9 @@
       "notes": []
     },
     "Chuỗi cung ứng": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Chuỗi cung ứng khoáng sản": {
@@ -5963,6 +5987,12 @@
       "last_seen": "2026-07-19",
       "notes": []
     },
+    "Kinh tế Gig": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "notes": []
+    },
     "Kinh tế biển": {
       "count": 4,
       "first_seen": "2026-07-24",
@@ -6180,9 +6210,9 @@
       "notes": []
     },
     "Năng lượng": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Nợ công": {
@@ -6522,9 +6552,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Thương mại điện tử": {
