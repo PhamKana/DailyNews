@@ -1160,12 +1160,17 @@
       ]
     },
     "Goldman Sachs": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-14",
       "rounds": [
         {
           "date": "2026-09-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-14",
           "investors": [],
           "round": null
         }
@@ -2834,6 +2839,18 @@
       "rounds": [
         {
           "date": "2026-08-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "UOB": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
           "investors": [],
           "round": null
         }
@@ -5717,6 +5734,12 @@
       "last_seen": "2026-08-18",
       "notes": []
     },
+    "Cạnh tranh thương mại": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
     "Cải cách hành chính": {
       "count": 2,
       "first_seen": "2026-07-24",
@@ -5939,6 +5962,12 @@
       "last_seen": "2026-07-11",
       "notes": []
     },
+    "Hàng hóa": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
     "Hàng không": {
       "count": 1,
       "first_seen": "2026-08-13",
@@ -6090,9 +6119,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -6846,9 +6875,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Địa chính trị công nghệ": {
