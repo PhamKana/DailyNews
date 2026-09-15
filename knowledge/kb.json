@@ -1233,12 +1233,17 @@
       ]
     },
     "Grab": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "rounds": [
         {
           "date": "2026-09-13",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -1599,12 +1604,17 @@
       ]
     },
     "MB": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-09-15",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -1661,6 +1671,18 @@
       "rounds": [
         {
           "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Mastercard": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "rounds": [
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -2352,9 +2374,9 @@
       ]
     },
     "SHB": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-15",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -2363,6 +2385,11 @@
         },
         {
           "date": "2026-09-03",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -2736,9 +2763,9 @@
       ]
     },
     "Techcombank": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-15",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2752,6 +2779,11 @@
         },
         {
           "date": "2026-08-13",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -2905,9 +2937,9 @@
       ]
     },
     "VPBank": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-15",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2916,6 +2948,11 @@
         },
         {
           "date": "2026-09-03",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-15",
           "investors": [],
           "round": null
         }
@@ -4557,9 +4594,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-09-15",
       "notes": []
     },
     "Chuyển đổi số ngân hàng": {
@@ -5222,6 +5259,12 @@
       "last_seen": "2026-08-06",
       "notes": []
     },
+    "Thanh toán số": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
     "Thuật toán đầu tư": {
       "count": 1,
       "first_seen": "2026-08-29",
@@ -5543,9 +5586,9 @@
       "notes": []
     },
     "Bất động sản": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-15",
       "notes": []
     },
     "Can thiệp ngoại hối": {
@@ -5603,9 +5646,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-15",
       "notes": []
     },
     "Chuyển đổi số doanh nghiệp": {
@@ -6568,6 +6611,12 @@
       "last_seen": "2026-08-10",
       "notes": []
     },
+    "Thanh toán số": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
     "Thanh toán xuyên biên giới": {
       "count": 1,
       "first_seen": "2026-08-06",
@@ -6875,9 +6924,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "notes": []
     },
     "Địa chính trị công nghệ": {
