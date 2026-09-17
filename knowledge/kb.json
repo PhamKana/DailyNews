@@ -437,6 +437,18 @@
         }
       ]
     },
+    "Be Group": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-09-17",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Bending Spoons": {
       "count": 1,
       "first_seen": "2026-07-05",
@@ -1233,9 +1245,9 @@
       ]
     },
     "Grab": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "rounds": [
         {
           "date": "2026-09-13",
@@ -1244,6 +1256,23 @@
         },
         {
           "date": "2026-09-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-17",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "GreenSM": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-09-17",
           "investors": [],
           "round": null
         }
@@ -1707,6 +1736,18 @@
       "rounds": [
         {
           "date": "2026-09-01",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Meey Global Corp": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-09-17",
           "investors": [],
           "round": null
         }
@@ -5700,9 +5741,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6156,9 +6197,9 @@
       "notes": []
     },
     "Lãi suất": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-17",
       "notes": []
     },
     "Lạm phát": {
@@ -6450,9 +6491,9 @@
       "notes": []
     },
     "Quản trị rủi ro": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-09-17",
       "notes": []
     },
     "Quản trị rủi ro thị trường": {
@@ -6690,9 +6731,9 @@
       "notes": []
     },
     "Thị trường vốn": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-17",
       "notes": []
     },
     "Time Series Foundation Models": {
