@@ -815,6 +815,18 @@
         }
       ]
     },
+    "Công ty cổ phần Chế biến Thực phẩm Nông sản Xuất khẩu Nam Định": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Nguyên liệu Á Châu AIG": {
       "count": 1,
       "first_seen": "2026-08-19",
@@ -1049,9 +1061,9 @@
       ]
     },
     "FTSE Russell": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -1070,6 +1082,11 @@
         },
         {
           "date": "2026-09-18",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-19",
           "investors": [],
           "round": null
         }
@@ -5794,9 +5811,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 22,
+      "count": 23,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -5863,6 +5880,12 @@
       "count": 1,
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Cạnh tranh hàng hóa": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Cạnh tranh ngành ô tô": {
@@ -6358,9 +6381,9 @@
       "notes": []
     },
     "Nâng hạng thị trường": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Nông nghiệp": {
@@ -6877,6 +6900,12 @@
       "count": 1,
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-04",
+      "notes": []
+    },
+    "Tín dụng bất động sản": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Tín dụng ngân hàng": {
