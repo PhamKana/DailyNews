@@ -647,6 +647,18 @@
         }
       ]
     },
+    "Cashion": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "rounds": [
+        {
+          "date": "2026-09-20",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Central Group": {
       "count": 1,
       "first_seen": "2026-09-18",
@@ -1061,9 +1073,9 @@
       ]
     },
     "FTSE Russell": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -1087,6 +1099,11 @@
         },
         {
           "date": "2026-09-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-20",
           "investors": [],
           "round": null
         }
@@ -5775,9 +5792,9 @@
       "notes": []
     },
     "Chuỗi cung ứng": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-20",
       "notes": []
     },
     "Chuỗi cung ứng khoáng sản": {
@@ -5832,6 +5849,12 @@
       "count": 1,
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Chất lượng tín dụng": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
       "notes": []
     },
     "Commodity Prices": {
@@ -6381,9 +6404,9 @@
       "notes": []
     },
     "Nâng hạng thị trường": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "notes": []
     },
     "Nông nghiệp": {
@@ -6747,9 +6770,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-20",
       "notes": []
     },
     "Thương mại điện tử": {
