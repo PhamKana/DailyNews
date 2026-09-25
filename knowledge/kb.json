@@ -2990,9 +2990,9 @@
       ]
     },
     "Techcombank": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-25",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3011,6 +3011,11 @@
         },
         {
           "date": "2026-09-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-25",
           "investors": [],
           "round": null
         }
@@ -3158,6 +3163,18 @@
       "rounds": [
         {
           "date": "2026-07-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "VNDirect": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "rounds": [
+        {
+          "date": "2026-09-25",
           "investors": [],
           "round": null
         }
@@ -5914,6 +5931,12 @@
       "last_seen": "2026-08-12",
       "notes": []
     },
+    "Chuỗi cung ứng năng lượng": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
     "Chuỗi cung ứng điện tử và AI": {
       "count": 1,
       "first_seen": "2026-09-10",
@@ -5939,9 +5962,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-25",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6401,15 +6424,15 @@
       "notes": []
     },
     "Logistics": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-09-25",
       "notes": []
     },
     "Lãi suất": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-25",
       "notes": []
     },
     "Lạm phát": {
@@ -7196,6 +7219,12 @@
       "count": 6,
       "first_seen": "2026-07-24",
       "last_seen": "2026-08-27",
+      "notes": []
+    },
+    "Đầu tư nước ngoài": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
       "notes": []
     },
     "Địa chính trị": {
