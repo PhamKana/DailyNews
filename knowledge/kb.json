@@ -1472,12 +1472,17 @@
       ]
     },
     "Hòa Phát": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-26",
       "rounds": [
         {
           "date": "2026-08-27",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-26",
           "investors": [],
           "round": null
         }
@@ -3103,6 +3108,18 @@
       "rounds": [
         {
           "date": "2026-08-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "UBCKNN": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "rounds": [
+        {
+          "date": "2026-09-26",
           "investors": [],
           "round": null
         }
@@ -5504,9 +5521,9 @@
       "notes": []
     },
     "Thanh toán QR": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Thanh toán số": {
@@ -5962,9 +5979,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6562,9 +6579,9 @@
       "notes": []
     },
     "Năng lượng": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Nợ công": {
@@ -6718,9 +6735,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
@@ -6898,9 +6915,9 @@
       "notes": []
     },
     "Thanh toán số": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Thanh toán xuyên biên giới": {
@@ -7174,9 +7191,9 @@
       "notes": []
     },
     "Xuất khẩu": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-26",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
