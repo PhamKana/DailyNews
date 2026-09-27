@@ -3186,12 +3186,17 @@
       ]
     },
     "VNDirect": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-27",
       "rounds": [
         {
           "date": "2026-09-25",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-27",
           "investors": [],
           "round": null
         }
@@ -6134,6 +6139,12 @@
       "last_seen": "2026-09-01",
       "notes": []
     },
+    "Dòng vốn ngoại": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "notes": []
+    },
     "E-commerce Regulation": {
       "count": 1,
       "first_seen": "2026-07-19",
@@ -6312,6 +6323,12 @@
       "count": 1,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
+      "notes": []
+    },
+    "Hợp tác chiến lược": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
       "notes": []
     },
     "Hợp tác kinh tế": {
@@ -6561,9 +6578,9 @@
       "notes": []
     },
     "Nâng hạng thị trường": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-27",
       "notes": []
     },
     "Nông nghiệp": {
@@ -6933,9 +6950,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-27",
       "notes": []
     },
     "Thương mại điện tử": {
