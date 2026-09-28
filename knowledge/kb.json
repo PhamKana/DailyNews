@@ -5984,9 +5984,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6284,9 +6284,9 @@
       "notes": []
     },
     "Giá năng lượng": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Gold Market": {
@@ -6998,9 +6998,9 @@
       "notes": []
     },
     "Thị trường trái phiếu": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Thị trường vàng": {
@@ -7262,9 +7262,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Địa chính trị công nghệ": {
