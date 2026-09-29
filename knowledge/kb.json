@@ -1500,6 +1500,18 @@
         }
       ]
     },
+    "IFC": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "rounds": [
+        {
+          "date": "2026-09-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "IM8": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -2628,9 +2640,9 @@
       ]
     },
     "SJC": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-29",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2639,6 +2651,11 @@
         },
         {
           "date": "2026-08-29",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-29",
           "investors": [],
           "round": null
         }
@@ -5075,6 +5092,12 @@
       "last_seen": "2026-08-05",
       "notes": []
     },
+    "Hạ tầng số": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Hạ tầng vũ trụ": {
       "count": 1,
       "first_seen": "2026-08-26",
@@ -5163,6 +5186,12 @@
       "count": 1,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "LNG": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
       "notes": []
     },
     "Linh kiện điện tử": {
@@ -5259,6 +5288,12 @@
       "count": 1,
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Năng lượng sạch": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
       "notes": []
     },
     "OCR": {
@@ -5675,6 +5710,12 @@
       "last_seen": "2026-07-11",
       "notes": []
     },
+    "Điện hạt nhân": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Điện khí": {
       "count": 1,
       "first_seen": "2026-09-04",
@@ -5935,6 +5976,12 @@
       "last_seen": "2026-08-28",
       "notes": []
     },
+    "Chuyển đổi số ngân hàng": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Chuyển đổi xanh": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -5984,9 +6031,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6289,6 +6336,12 @@
       "last_seen": "2026-09-28",
       "notes": []
     },
+    "Giá vàng": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Gold Market": {
       "count": 1,
       "first_seen": "2026-07-19",
@@ -6349,6 +6402,12 @@
       "last_seen": "2026-08-26",
       "notes": []
     },
+    "Hợp tác năng lượng": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Hợp tác quốc tế": {
       "count": 1,
       "first_seen": "2026-09-02",
@@ -6367,6 +6426,12 @@
       "last_seen": "2026-07-19",
       "notes": []
     },
+    "Khủng hoảng nhà ở": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "notes": []
+    },
     "Kinh tế Gig": {
       "count": 1,
       "first_seen": "2026-09-13",
@@ -6380,9 +6445,9 @@
       "notes": []
     },
     "Kinh tế cửa khẩu": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-09-29",
       "notes": []
     },
     "Kinh tế số": {
