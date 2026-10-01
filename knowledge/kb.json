@@ -2954,12 +2954,17 @@
       ]
     },
     "T&T Group": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-10-01",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-01",
           "investors": [],
           "round": null
         }
@@ -6031,9 +6036,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 28,
+      "count": 29,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6370,6 +6375,12 @@
       "count": 1,
       "first_seen": "2026-08-13",
       "last_seen": "2026-08-13",
+      "notes": []
+    },
+    "Hạ tầng": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
       "notes": []
     },
     "Hạ tầng giao thông": {
@@ -6817,9 +6828,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-10-01",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
@@ -7075,9 +7086,9 @@
       "notes": []
     },
     "Thị trường vốn": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-01",
       "notes": []
     },
     "Time Series Foundation Models": {
