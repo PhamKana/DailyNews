@@ -3147,6 +3147,18 @@
         }
       ]
     },
+    "UBS": {
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "rounds": [
+        {
+          "date": "2026-10-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "UOB": {
       "count": 1,
       "first_seen": "2026-09-14",
@@ -3983,6 +3995,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "Lọc dầu": {
+      "count": 1,
+      "domain": "Năng lượng",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02"
+    },
     "MinSurf": {
       "count": 1,
       "domain": "materials science",
@@ -4648,9 +4666,9 @@
   },
   "tech": {
     "AI": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-10-02",
       "notes": []
     },
     "AI Agent Control": {
@@ -6036,9 +6054,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6546,9 +6564,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-02",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -7326,9 +7344,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-02",
       "notes": []
     },
     "Đầu tư nước ngoài": {
@@ -7338,9 +7356,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-02",
       "notes": []
     },
     "Địa chính trị công nghệ": {
