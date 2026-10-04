@@ -217,6 +217,18 @@
         }
       ]
     },
+    "Amazon": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "rounds": [
+        {
+          "date": "2026-10-04",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Amity": {
       "count": 1,
       "first_seen": "2026-06-29",
@@ -3459,6 +3471,18 @@
         }
       ]
     },
+    "Vistra": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "rounds": [
+        {
+          "date": "2026-10-04",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Walmart": {
       "count": 1,
       "first_seen": "2026-08-23",
@@ -4030,6 +4054,12 @@
       "domain": "Bán dẫn",
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-28"
+    },
+    "Năng lượng sạch": {
+      "count": 1,
+      "domain": "Năng lượng",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
     },
     "Origami Circuit Board": {
       "count": 1,
@@ -5734,9 +5764,9 @@
       "notes": []
     },
     "Điện hạt nhân": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Điện khí": {
@@ -6054,9 +6084,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6695,6 +6725,12 @@
       "last_seen": "2026-09-26",
       "notes": []
     },
+    "Năng lượng hạt nhân": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "notes": []
+    },
     "Nợ công": {
       "count": 1,
       "first_seen": "2026-08-20",
@@ -7302,9 +7338,9 @@
       "notes": []
     },
     "Xuất khẩu": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
@@ -7344,9 +7380,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Đầu tư nước ngoài": {
