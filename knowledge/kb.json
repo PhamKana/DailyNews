@@ -861,6 +861,18 @@
         }
       ]
     },
+    "Công ty Vàng bạc đá quý Sài Gòn": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "rounds": [
+        {
+          "date": "2026-10-05",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Chế biến Thực phẩm Nông sản Xuất khẩu Nam Định": {
       "count": 1,
       "first_seen": "2026-09-19",
@@ -6084,9 +6096,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6141,6 +6153,12 @@
       "count": 1,
       "first_seen": "2026-07-17",
       "last_seen": "2026-07-17",
+      "notes": []
+    },
+    "Công nghiệp hỗ trợ": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
       "notes": []
     },
     "Căng thẳng thương mại": {
@@ -6591,6 +6609,12 @@
       "count": 7,
       "first_seen": "2026-07-22",
       "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "Lãi suất trái phiếu": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
       "notes": []
     },
     "Lạm phát": {
@@ -7143,6 +7167,12 @@
       "count": 5,
       "first_seen": "2026-07-24",
       "last_seen": "2026-10-01",
+      "notes": []
+    },
+    "Thị trường xăng dầu": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
       "notes": []
     },
     "Time Series Foundation Models": {
