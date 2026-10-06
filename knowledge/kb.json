@@ -2802,12 +2802,17 @@
       ]
     },
     "Shopee": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-10-06",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-06",
           "investors": [],
           "round": null
         }
@@ -2838,9 +2843,9 @@
       ]
     },
     "SpaceX": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-10-06",
       "rounds": [
         {
           "date": "2026-07-24",
@@ -2859,6 +2864,11 @@
         },
         {
           "date": "2026-08-26",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-06",
           "investors": [],
           "round": null
         }
@@ -3119,9 +3129,9 @@
       ]
     },
     "TikTok Shop": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-10-06",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3130,6 +3140,11 @@
         },
         {
           "date": "2026-09-04",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-06",
           "investors": [],
           "round": null
         }
@@ -4206,10 +4221,10 @@
       "last_seen": "2026-06-19"
     },
     "SpaceX": {
-      "count": 1,
+      "count": 2,
       "domain": "Hàng không vũ trụ",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26"
+      "last_seen": "2026-10-06"
     },
     "Sản xuất khoáng sản": {
       "count": 1,
@@ -4708,9 +4723,9 @@
   },
   "tech": {
     "AI": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "AI Agent Control": {
@@ -4957,6 +4972,12 @@
       "count": 1,
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-12",
+      "notes": []
+    },
+    "Cloud Computing": {
+      "count": 1,
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "Code Generation/Review": {
@@ -5820,9 +5841,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "AI Confidence Gap": {
@@ -6096,9 +6117,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6606,9 +6627,9 @@
       "notes": []
     },
     "Lãi suất": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "Lãi suất trái phiếu": {
@@ -7110,9 +7131,9 @@
       "notes": []
     },
     "Thương mại điện tử": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-10-06",
       "notes": []
     },
     "Thị trường bán lẻ": {
