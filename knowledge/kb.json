@@ -73,9 +73,9 @@
       ]
     },
     "AMD": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-10-07",
       "rounds": [
         {
           "date": "2026-06-20",
@@ -84,6 +84,11 @@
         },
         {
           "date": "2026-09-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-07",
           "investors": [],
           "round": null
         }
@@ -1682,6 +1687,18 @@
         }
       ]
     },
+    "Kadoya Sesame Mills": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "rounds": [
+        {
+          "date": "2026-10-07",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Kho bạc Nhà nước": {
       "count": 1,
       "first_seen": "2026-07-30",
@@ -1852,6 +1869,18 @@
             "Meta (previous)"
           ],
           "round": "buyback"
+        }
+      ]
+    },
+    "Marvell Technology": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "rounds": [
+        {
+          "date": "2026-10-07",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -3867,10 +3896,10 @@
       "last_seen": "2026-07-08"
     },
     "Bán dẫn": {
-      "count": 5,
+      "count": 6,
       "domain": "Công nghệ phần cứng",
       "first_seen": "2026-08-09",
-      "last_seen": "2026-09-22"
+      "last_seen": "2026-10-07"
     },
     "Contextual Emotion AI": {
       "count": 1,
@@ -4723,9 +4752,9 @@
   },
   "tech": {
     "AI": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI Agent Control": {
@@ -4903,9 +4932,9 @@
       "notes": []
     },
     "Bán dẫn": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-09",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "C++ libraries": {
@@ -6117,9 +6146,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6657,9 +6686,9 @@
       "notes": []
     },
     "Lợi nhuận doanh nghiệp": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Lợi nhuận tài chính": {
@@ -7185,9 +7214,9 @@
       "notes": []
     },
     "Thị trường vốn": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Thị trường xăng dầu": {
@@ -7443,9 +7472,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Địa chính trị công nghệ": {
