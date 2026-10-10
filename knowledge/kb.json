@@ -3490,6 +3490,18 @@
         }
       ]
     },
+    "Viettel": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "rounds": [
+        {
+          "date": "2026-10-10",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "VinFast": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -5285,9 +5297,9 @@
       "notes": []
     },
     "Hạ tầng số": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-10",
       "notes": []
     },
     "Hạ tầng vũ trụ": {
@@ -5770,6 +5782,12 @@
       "last_seen": "2026-09-15",
       "notes": []
     },
+    "Thiết bị CNTT": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "notes": []
+    },
     "Thuật toán đầu tư": {
       "count": 1,
       "first_seen": "2026-08-29",
@@ -6163,9 +6181,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-10",
       "notes": []
     },
     "Chuyển đổi số doanh nghiệp": {
@@ -6229,9 +6247,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6889,9 +6907,9 @@
       "notes": []
     },
     "Năng lượng": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-10",
       "notes": []
     },
     "Năng lượng hạt nhân": {
