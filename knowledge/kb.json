@@ -3275,6 +3275,30 @@
         }
       ]
     },
+    "UBND tỉnh Bắc Ninh": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "rounds": [
+        {
+          "date": "2026-10-11",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "UBND tỉnh Đắk Lắk": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "rounds": [
+        {
+          "date": "2026-10-11",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "UBS": {
       "count": 1,
       "first_seen": "2026-10-02",
@@ -6205,9 +6229,9 @@
       "notes": []
     },
     "Chuỗi cung ứng": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-10-11",
       "notes": []
     },
     "Chuỗi cung ứng khoáng sản": {
@@ -6487,9 +6511,9 @@
       "notes": []
     },
     "FDI": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-11",
       "notes": []
     },
     "FDI Policy": {
@@ -7549,9 +7573,9 @@
       "notes": []
     },
     "Xuất khẩu nông sản": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-10-11",
       "notes": []
     },
     "Xuất khẩu thủy sản": {
@@ -7579,9 +7603,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-11",
       "notes": []
     },
     "Đầu tư nước ngoài": {
