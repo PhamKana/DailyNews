@@ -2741,9 +2741,9 @@
       ]
     },
     "SJC": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-12",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2757,6 +2757,11 @@
         },
         {
           "date": "2026-09-29",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-12",
           "investors": [],
           "round": null
         }
@@ -4151,6 +4156,12 @@
       "domain": "Decentralized Computing",
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
+    },
+    "Kinh tế tầm thấp": {
+      "count": 1,
+      "domain": "Công nghệ không gian",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12"
     },
     "LLM Safety/Security": {
       "count": 1,
@@ -5842,6 +5853,12 @@
       "last_seen": "2026-07-13",
       "notes": []
     },
+    "UAV": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "notes": []
+    },
     "UPI architecture": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -6271,9 +6288,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-12",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6430,6 +6447,12 @@
       "count": 1,
       "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Doanh nghiệp": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
       "notes": []
     },
     "Du lịch OCOP": {
@@ -6589,9 +6612,9 @@
       "notes": []
     },
     "Giá vàng": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-12",
       "notes": []
     },
     "Gold Market": {
@@ -7483,9 +7506,9 @@
       "notes": []
     },
     "Tăng trưởng kinh tế": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-10-12",
       "notes": []
     },
     "Tăng trưởng kinh tế địa phương": {
