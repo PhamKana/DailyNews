@@ -1594,6 +1594,18 @@
         }
       ]
     },
+    "Industrial Bank of Korea": {
+      "count": 1,
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "rounds": [
+        {
+          "date": "2026-10-14",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Infineon": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -3573,9 +3585,9 @@
       ]
     },
     "Vingroup": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-10-14",
       "rounds": [
         {
           "date": "2026-07-22",
@@ -3599,6 +3611,11 @@
         },
         {
           "date": "2026-09-10",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-14",
           "investors": [],
           "round": null
         }
@@ -4239,6 +4256,12 @@
       "domain": "Năng lượng",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04"
+    },
+    "Năng lượng địa nhiệt": {
+      "count": 1,
+      "domain": "Năng lượng",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14"
     },
     "Origami Circuit Board": {
       "count": 1,
@@ -5989,6 +6012,12 @@
       "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
       "notes": []
+    },
+    "Điện địa nhiệt": {
+      "count": 1,
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "notes": []
     }
   },
   "themes": {
@@ -6167,9 +6196,9 @@
       "notes": []
     },
     "Bất động sản": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-14",
       "notes": []
     },
     "Can thiệp ngoại hối": {
@@ -6293,9 +6322,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-14",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6970,6 +6999,12 @@
       "last_seen": "2026-10-04",
       "notes": []
     },
+    "Năng lượng tái tạo": {
+      "count": 1,
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "notes": []
+    },
     "Nợ công": {
       "count": 1,
       "first_seen": "2026-08-20",
@@ -7058,6 +7093,12 @@
       "count": 1,
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15",
+      "notes": []
+    },
+    "Phân hóa thị trường": {
+      "count": 1,
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
       "notes": []
     },
     "Policy & Geopolitics": {
@@ -7643,9 +7684,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-14",
       "notes": []
     },
     "Đầu tư nước ngoài": {
