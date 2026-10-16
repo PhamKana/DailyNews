@@ -6346,9 +6346,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6880,9 +6880,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -7432,9 +7432,9 @@
       "notes": []
     },
     "Thị trường chứng khoán": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "notes": []
     },
     "Thị trường dầu mỏ": {
@@ -7527,6 +7527,12 @@
       "last_seen": "2026-08-27",
       "notes": []
     },
+    "Tài sản mã hóa": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "notes": []
+    },
     "Tài sản trú ẩn": {
       "count": 1,
       "first_seen": "2026-08-31",
@@ -7594,9 +7600,9 @@
       "notes": []
     },
     "Tăng trưởng kinh tế": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-16",
       "notes": []
     },
     "Tăng trưởng kinh tế địa phương": {
