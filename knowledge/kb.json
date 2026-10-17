@@ -655,6 +655,18 @@
         }
       ]
     },
+    "Bộ Công Thương": {
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "rounds": [
+        {
+          "date": "2026-10-17",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "CATL": {
       "count": 1,
       "first_seen": "2026-08-15",
@@ -2237,12 +2249,17 @@
       ]
     },
     "Ngân hàng Nhà nước": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-10-17",
       "rounds": [
         {
           "date": "2026-07-30",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-17",
           "investors": [],
           "round": null
         }
@@ -6346,9 +6363,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6868,9 +6885,9 @@
       "notes": []
     },
     "Lãi suất": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-17",
       "notes": []
     },
     "Lãi suất trái phiếu": {
@@ -7192,9 +7209,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-17",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
@@ -7405,6 +7422,12 @@
       "count": 1,
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-22",
+      "notes": []
+    },
+    "Thương hiệu quốc gia": {
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
       "notes": []
     },
     "Thương mại quốc tế": {
