@@ -2513,6 +2513,18 @@
         }
       ]
     },
+    "PVOIL": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "rounds": [
+        {
+          "date": "2026-10-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "PYN Elite Fund": {
       "count": 1,
       "first_seen": "2026-09-03",
@@ -2544,6 +2556,18 @@
       "rounds": [
         {
           "date": "2026-08-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Phê La": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "rounds": [
+        {
+          "date": "2026-10-19",
           "investors": [],
           "round": null
         }
@@ -6343,9 +6367,9 @@
       "notes": []
     },
     "Chuỗi cung ứng": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-19",
       "notes": []
     },
     "Chuỗi cung ứng khoáng sản": {
@@ -6385,9 +6409,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 43,
+      "count": 44,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6919,9 +6943,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -7255,9 +7279,9 @@
       "notes": []
     },
     "Quản trị rủi ro": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-19",
       "notes": []
     },
     "Quản trị rủi ro thị trường": {
