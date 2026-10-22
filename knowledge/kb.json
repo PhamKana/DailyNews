@@ -458,12 +458,17 @@
       ]
     },
     "BVBank": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-10-22",
       "rounds": [
         {
           "date": "2026-07-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-22",
           "investors": [],
           "round": null
         }
@@ -2217,6 +2222,18 @@
         }
       ]
     },
+    "NTQ Solution": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "rounds": [
+        {
+          "date": "2026-10-22",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "NVIDIA": {
       "count": 1,
       "first_seen": "2026-06-22",
@@ -2319,9 +2336,9 @@
       ]
     },
     "Novaland": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-22",
       "rounds": [
         {
           "date": "2026-09-08",
@@ -2330,6 +2347,11 @@
         },
         {
           "date": "2026-10-20",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-22",
           "investors": [],
           "round": null
         }
@@ -2380,12 +2402,17 @@
       ]
     },
     "OCB": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-10-22",
       "rounds": [
         {
           "date": "2026-07-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-22",
           "investors": [],
           "round": null
         }
@@ -3179,9 +3206,9 @@
       ]
     },
     "TPBank": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-22",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3195,6 +3222,11 @@
         },
         {
           "date": "2026-09-03",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-22",
           "investors": [],
           "round": null
         }
@@ -3225,9 +3257,9 @@
       ]
     },
     "Techcombank": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-10-22",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3251,6 +3283,11 @@
         },
         {
           "date": "2026-09-25",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-22",
           "investors": [],
           "round": null
         }
@@ -6414,9 +6451,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 45,
+      "count": 46,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-22",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6858,9 +6895,9 @@
       "notes": []
     },
     "Kinh tế số": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-10-22",
       "notes": []
     },
     "Kinh tế tuần hoàn": {
@@ -6936,9 +6973,9 @@
       "notes": []
     },
     "Lãi suất": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-22",
       "notes": []
     },
     "Lãi suất trái phiếu": {
@@ -7068,9 +7105,9 @@
       "notes": []
     },
     "Nông nghiệp": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-10-22",
       "notes": []
     },
     "Nông nghiệp xuất khẩu": {
