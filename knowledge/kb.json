@@ -2288,12 +2288,17 @@
       ]
     },
     "Ngân hàng Nhà nước Việt Nam": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-10-24",
       "rounds": [
         {
           "date": "2026-08-17",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-24",
           "investors": [],
           "round": null
         }
@@ -4101,6 +4106,18 @@
       "rounds": [
         {
           "date": "2026-08-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Ủy ban Chứng khoán Nhà nước": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
           "investors": [],
           "round": null
         }
@@ -6389,9 +6406,9 @@
       "notes": []
     },
     "Bất động sản": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Can thiệp ngoại hối": {
@@ -6521,9 +6538,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7775,9 +7792,9 @@
       "notes": []
     },
     "Tín dụng ngân hàng": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Tín dụng quốc tế": {
@@ -7871,9 +7888,9 @@
       "notes": []
     },
     "Xuất khẩu": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Xuất khẩu công nghệ": {
@@ -7913,9 +7930,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Đầu tư nước ngoài": {
