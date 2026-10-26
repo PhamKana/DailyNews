@@ -1107,6 +1107,18 @@
         }
       ]
     },
+    "Dior": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Dragon Capital": {
       "count": 1,
       "first_seen": "2026-08-15",
@@ -1419,6 +1431,18 @@
         }
       ]
     },
+    "Goyard": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Grab": {
       "count": 3,
       "first_seen": "2026-09-13",
@@ -1484,6 +1508,18 @@
       "rounds": [
         {
           "date": "2026-09-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Hermès": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
           "investors": [],
           "round": null
         }
@@ -1881,6 +1917,18 @@
             "GFT Ventures"
           ],
           "round": "Series A"
+        }
+      ]
+    },
+    "Louis Vuitton": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -2923,6 +2971,18 @@
         }
       ]
     },
+    "Saint Laurent": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Sakana AI": {
       "count": 1,
       "first_seen": "2026-06-27",
@@ -3344,6 +3404,18 @@
         },
         {
           "date": "2026-07-25",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "The North Face": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "rounds": [
+        {
+          "date": "2026-10-26",
           "investors": [],
           "round": null
         }
@@ -4623,6 +4695,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "Turbine điện gió": {
+      "count": 1,
+      "domain": "Năng lượng tái tạo",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26"
+    },
     "Unified Memory": {
       "count": 1,
       "domain": "AI Model Optimization",
@@ -5108,9 +5186,9 @@
   },
   "tech": {
     "AI": {
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "AI Agent Control": {
@@ -5249,6 +5327,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "An ninh mạng": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "Auto-fallback": {
@@ -6050,9 +6134,9 @@
       "notes": []
     },
     "Thanh toán số": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "Thiết bị CNTT": {
@@ -6550,9 +6634,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 49,
+      "count": 50,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7449,6 +7533,12 @@
       "last_seen": "2026-07-17",
       "notes": []
     },
+    "Rủi ro bất ổn xã hội": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "notes": []
+    },
     "Rủi ro danh mục": {
       "count": 1,
       "first_seen": "2026-10-18",
@@ -7543,6 +7633,12 @@
       "count": 1,
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "Số hóa tài chính": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "Talent Gap in Deep Tech": {
@@ -7779,6 +7875,12 @@
       "last_seen": "2026-08-04",
       "notes": []
     },
+    "Tái cấu trúc lao động": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "notes": []
+    },
     "Tái cấu trúc nợ": {
       "count": 1,
       "first_seen": "2026-10-20",
@@ -7957,6 +8059,12 @@
       "count": 17,
       "first_seen": "2026-07-19",
       "last_seen": "2026-10-20",
+      "notes": []
+    },
+    "Địa chính trị chuỗi cung ứng": {
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "notes": []
     },
     "Địa chính trị công nghệ": {
