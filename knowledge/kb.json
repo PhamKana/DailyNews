@@ -1030,6 +1030,18 @@
         }
       ]
     },
+    "Cảng Hải Phòng": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "rounds": [
+        {
+          "date": "2026-10-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "DHL": {
       "count": 1,
       "first_seen": "2026-06-22",
@@ -6692,9 +6704,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7838,9 +7850,9 @@
       "notes": []
     },
     "Thị trường vốn": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Thị trường xăng dầu": {
@@ -7883,6 +7895,12 @@
       "count": 1,
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "Tài chính bền vững": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Tài chính ngân hàng": {
@@ -8102,9 +8120,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Đầu tư nước ngoài": {
