@@ -251,6 +251,18 @@
         }
       ]
     },
+    "Alphabet": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "rounds": [
+        {
+          "date": "2026-10-30",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Amazon": {
       "count": 1,
       "first_seen": "2026-10-04",
@@ -519,6 +531,18 @@
           "date": "2026-07-05",
           "investors": null,
           "round": "IPO"
+        }
+      ]
+    },
+    "Binance": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "rounds": [
+        {
+          "date": "2026-10-30",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -912,6 +936,18 @@
       "rounds": [
         {
           "date": "2026-08-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Công ty TNHH Kiểm toán Nhân Tâm Việt": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "rounds": [
+        {
+          "date": "2026-10-30",
           "investors": [],
           "round": null
         }
@@ -5250,9 +5286,9 @@
   },
   "tech": {
     "AI": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-30",
       "notes": []
     },
     "AI Agent Control": {
@@ -6422,9 +6458,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-10-30",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -6704,9 +6740,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7070,9 +7106,9 @@
       "notes": []
     },
     "Hạ tầng giao thông": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-10-30",
       "notes": []
     },
     "Hợp tác chiến lược": {
@@ -7577,6 +7613,12 @@
       "count": 3,
       "first_seen": "2026-07-26",
       "last_seen": "2026-10-19",
+      "notes": []
+    },
+    "Quản trị rủi ro danh mục": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
       "notes": []
     },
     "Quản trị rủi ro thị trường": {
