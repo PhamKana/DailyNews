@@ -1155,6 +1155,18 @@
         }
       ]
     },
+    "Deutsche Telekom": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Dialog (Peter Thiel)": {
       "count": 1,
       "first_seen": "2026-07-04",
@@ -3469,6 +3481,18 @@
         }
       ]
     },
+    "Telefónica": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Temu": {
       "count": 1,
       "first_seen": "2026-10-23",
@@ -3686,6 +3710,18 @@
         }
       ]
     },
+    "VAMC": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "VEFAC": {
       "count": 1,
       "first_seen": "2026-07-22",
@@ -3777,12 +3813,17 @@
       ]
     },
     "VietinBank": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-10-31",
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-10-31",
           "investors": [],
           "round": null
         }
@@ -5651,6 +5692,12 @@
       "last_seen": "2026-07-02",
       "notes": []
     },
+    "Euro kỹ thuật số": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "notes": []
+    },
     "Fintech": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -6395,6 +6442,12 @@
       "last_seen": "2026-07-11",
       "notes": []
     },
+    "Điện gió": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "notes": []
+    },
     "Điện hạt nhân": {
       "count": 2,
       "first_seen": "2026-09-29",
@@ -6740,9 +6793,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 53,
+      "count": 54,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -6983,6 +7036,12 @@
       "count": 1,
       "first_seen": "2026-07-08",
       "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Euro kỹ thuật số": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "FDI": {
@@ -7297,6 +7356,12 @@
       "last_seen": "2026-10-18",
       "notes": []
     },
+    "Lợi nhuận ngân hàng": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "notes": []
+    },
     "Lợi nhuận tài chính": {
       "count": 1,
       "first_seen": "2026-07-22",
@@ -7418,9 +7483,9 @@
       "notes": []
     },
     "Năng lượng tái tạo": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Nợ công": {
@@ -7610,9 +7675,9 @@
       "notes": []
     },
     "Quản trị rủi ro": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Quản trị rủi ro danh mục": {
