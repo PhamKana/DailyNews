@@ -36,6 +36,18 @@
         }
       ]
     },
+    "ACB": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "rounds": [
+        {
+          "date": "2026-11-01",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "ACV": {
       "count": 1,
       "first_seen": "2026-08-04",
@@ -1252,12 +1264,17 @@
       ]
     },
     "FPT": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-11-01",
       "rounds": [
         {
           "date": "2026-08-03",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-01",
           "investors": [],
           "round": null
         }
@@ -1550,9 +1567,9 @@
       ]
     },
     "HDBank": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-11-01",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -1569,6 +1586,11 @@
           "investors": [
             "Standard Chartered"
           ],
+          "round": null
+        },
+        {
+          "date": "2026-11-01",
+          "investors": [],
           "round": null
         }
       ]
@@ -2084,6 +2106,18 @@
       "rounds": [
         {
           "date": "2026-10-07",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Masan Consumer": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "rounds": [
+        {
+          "date": "2026-11-01",
           "investors": [],
           "round": null
         }
@@ -2676,9 +2710,9 @@
       ]
     },
     "PNJ": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-11-01",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -2687,6 +2721,11 @@
         },
         {
           "date": "2026-08-29",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-01",
           "investors": [],
           "round": null
         }
@@ -6793,9 +6832,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7333,9 +7372,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-01",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -7921,9 +7960,9 @@
       "notes": []
     },
     "Thị trường chứng khoán": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-11-01",
       "notes": []
     },
     "Thị trường dầu mỏ": {
@@ -8227,9 +8266,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "notes": []
     },
     "Đầu tư nước ngoài": {
