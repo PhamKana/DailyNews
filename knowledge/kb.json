@@ -6832,9 +6832,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7162,9 +7162,9 @@
       "notes": []
     },
     "Giá vàng": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Gold Market": {
@@ -7372,9 +7372,9 @@
       "notes": []
     },
     "Lạm phát": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Lạm phát chi phí đẩy": {
@@ -8140,9 +8140,9 @@
       "notes": []
     },
     "Tăng trưởng GDP": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Tăng trưởng kinh tế": {
@@ -8266,9 +8266,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Đầu tư nước ngoài": {
