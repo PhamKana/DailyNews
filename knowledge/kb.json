@@ -768,6 +768,18 @@
         }
       ]
     },
+    "CTP Group": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Capital One": {
       "count": 1,
       "first_seen": "2026-07-17",
@@ -2051,9 +2063,9 @@
       ]
     },
     "MB": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-11-03",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -2062,6 +2074,11 @@
         },
         {
           "date": "2026-09-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-03",
           "investors": [],
           "round": null
         }
@@ -3708,6 +3725,18 @@
       "rounds": [
         {
           "date": "2026-10-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "UHY": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
           "investors": [],
           "round": null
         }
@@ -6832,9 +6861,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 56,
+      "count": 57,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7725,6 +7754,12 @@
       "last_seen": "2026-10-30",
       "notes": []
     },
+    "Quản trị rủi ro ngân hàng": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "notes": []
+    },
     "Quản trị rủi ro thị trường": {
       "count": 1,
       "first_seen": "2026-07-25",
@@ -7936,9 +7971,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Thương mại điện tử": {
@@ -8143,6 +8178,12 @@
       "count": 2,
       "first_seen": "2026-07-21",
       "last_seen": "2026-11-02",
+      "notes": []
+    },
+    "Tăng trưởng công nghiệp": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Tăng trưởng kinh tế": {
