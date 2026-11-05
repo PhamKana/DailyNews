@@ -1025,6 +1025,30 @@
         }
       ]
     },
+    "Công ty cổ phần Tập đoàn MCST": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "rounds": [
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Công ty cổ phần Viễn thông FPT": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "rounds": [
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Vận tải và Xếp dỡ Hải An": {
       "count": 1,
       "first_seen": "2026-08-11",
@@ -6880,9 +6904,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -8050,9 +8074,9 @@
       "notes": []
     },
     "Thị trường vàng": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Thị trường vốn": {
@@ -8317,6 +8341,12 @@
       "count": 2,
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
+      "notes": []
+    },
+    "Xuất nhập khẩu": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Đòn bẩy tài chính": {
