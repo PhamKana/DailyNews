@@ -953,6 +953,18 @@
         }
       ]
     },
+    "Công ty Cổ phần Minh Hữu Liên": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "rounds": [
+        {
+          "date": "2026-11-07",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty Cổ phần Xây dựng – Địa ốc Cao su": {
       "count": 1,
       "first_seen": "2026-08-26",
@@ -990,12 +1002,17 @@
       ]
     },
     "Công ty Vàng bạc đá quý Sài Gòn": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-07",
       "rounds": [
         {
           "date": "2026-10-05",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-07",
           "investors": [],
           "round": null
         }
@@ -5688,9 +5705,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-07",
       "notes": []
     },
     "Chuyển đổi số ngân hàng": {
@@ -6854,9 +6871,9 @@
       "notes": []
     },
     "Chuyển đổi số": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-07",
       "notes": []
     },
     "Chuyển đổi số doanh nghiệp": {
@@ -6920,9 +6937,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 60,
+      "count": 61,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -8036,9 +8053,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-07",
       "notes": []
     },
     "Thương mại điện tử": {
@@ -8240,9 +8257,9 @@
       "notes": []
     },
     "Tăng trưởng GDP": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-07",
       "notes": []
     },
     "Tăng trưởng công nghiệp": {
