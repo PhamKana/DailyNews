@@ -179,9 +179,9 @@
       ]
     },
     "Agribank": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-08",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -195,6 +195,11 @@
         },
         {
           "date": "2026-10-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-08",
           "investors": [],
           "round": null
         }
@@ -3992,9 +3997,9 @@
       ]
     },
     "Vietnam Airlines": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-08",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -4008,6 +4013,11 @@
         },
         {
           "date": "2026-10-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-08",
           "investors": [],
           "round": null
         }
@@ -6924,6 +6934,12 @@
       "last_seen": "2026-09-02",
       "notes": []
     },
+    "Chính sách năng lượng": {
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "notes": []
+    },
     "Chính sách thuế": {
       "count": 3,
       "first_seen": "2026-08-23",
@@ -7116,10 +7132,22 @@
       "last_seen": "2026-09-27",
       "notes": []
     },
+    "Dự trữ ngoại hối": {
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "notes": []
+    },
     "E-commerce Regulation": {
       "count": 1,
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-19",
+      "notes": []
+    },
+    "ESG": {
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
       "notes": []
     },
     "ESG/Sustainability in Logistics": {
@@ -7606,6 +7634,12 @@
       "count": 2,
       "first_seen": "2026-08-16",
       "last_seen": "2026-10-22",
+      "notes": []
+    },
+    "Nông nghiệp công nghệ cao": {
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
       "notes": []
     },
     "Nông nghiệp xuất khẩu": {
