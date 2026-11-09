@@ -475,12 +475,17 @@
       ]
     },
     "BSR": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-11-09",
       "rounds": [
         {
           "date": "2026-08-07",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-09",
           "investors": [],
           "round": null
         }
@@ -3104,9 +3109,9 @@
       ]
     },
     "SJC": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-09",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3130,6 +3135,11 @@
         },
         {
           "date": "2026-11-06",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-09",
           "investors": [],
           "round": null
         }
@@ -4084,9 +4094,9 @@
       ]
     },
     "Vingroup": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-09",
       "rounds": [
         {
           "date": "2026-07-22",
@@ -4115,6 +4125,11 @@
         },
         {
           "date": "2026-10-14",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-09",
           "investors": [],
           "round": null
         }
@@ -7295,9 +7310,9 @@
       "notes": []
     },
     "Giá vàng": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-09",
       "notes": []
     },
     "Gold Market": {
@@ -7523,9 +7538,9 @@
       "notes": []
     },
     "Lợi nhuận doanh nghiệp": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-11-09",
       "notes": []
     },
     "Lợi nhuận ngân hàng": {
@@ -8111,9 +8126,9 @@
       "notes": []
     },
     "Thị trường chứng khoán": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-09",
       "notes": []
     },
     "Thị trường dầu mỏ": {
@@ -8468,6 +8483,12 @@
       "count": 1,
       "first_seen": "2026-09-24",
       "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Định giá doanh nghiệp": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
       "notes": []
     },
     "Định giá tài sản": {
