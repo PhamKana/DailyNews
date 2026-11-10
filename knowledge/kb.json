@@ -2614,9 +2614,9 @@
       ]
     },
     "Nvidia": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-10",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -2640,6 +2640,11 @@
         },
         {
           "date": "2026-09-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-10",
           "investors": [],
           "round": null
         }
@@ -4592,10 +4597,10 @@
       "last_seen": "2026-07-08"
     },
     "Bán dẫn": {
-      "count": 7,
-      "domain": "Sản xuất chip",
+      "count": 8,
+      "domain": "Hardware",
       "first_seen": "2026-08-09",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-10"
     },
     "Contextual Emotion AI": {
       "count": 1,
@@ -4992,6 +4997,12 @@
       "domain": "Năng lượng tái tạo",
       "first_seen": "2026-10-26",
       "last_seen": "2026-10-26"
+    },
+    "UAV Stack": {
+      "count": 1,
+      "domain": "Autonomous Systems",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
     },
     "Unified Memory": {
       "count": 1,
@@ -5670,9 +5681,9 @@
       "notes": []
     },
     "Bán dẫn": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-08-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "C++ libraries": {
@@ -6449,6 +6460,12 @@
       "last_seen": "2026-10-10",
       "notes": []
     },
+    "Thiết bị bay không người lái": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "notes": []
+    },
     "Thuật toán đầu tư": {
       "count": 1,
       "first_seen": "2026-08-29",
@@ -6486,9 +6503,9 @@
       "notes": []
     },
     "UAV": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "UPI architecture": {
@@ -6968,9 +6985,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7037,6 +7054,12 @@
       "count": 2,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-08",
+      "notes": []
+    },
+    "Công nghệ bán dẫn": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "Căng thẳng thương mại": {
@@ -8138,9 +8161,9 @@
       "notes": []
     },
     "Thị trường năng lượng": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "Thị trường tiền số": {
@@ -8462,9 +8485,9 @@
       "notes": []
     },
     "Địa chính trị": {
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-10",
       "notes": []
     },
     "Địa chính trị chuỗi cung ứng": {
