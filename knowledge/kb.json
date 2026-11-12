@@ -1088,6 +1088,18 @@
         }
       ]
     },
+    "Công ty cổ phần Vật tư Bưu điện": {
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "rounds": [
+        {
+          "date": "2026-11-12",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Xuất nhập khẩu Bắc Giang": {
       "count": 1,
       "first_seen": "2026-08-16",
@@ -7002,9 +7014,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7272,9 +7284,9 @@
       "notes": []
     },
     "FDI": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-11-12",
       "notes": []
     },
     "FDI Policy": {
@@ -8375,6 +8387,12 @@
       "last_seen": "2026-08-15",
       "notes": []
     },
+    "Tăng vốn doanh nghiệp": {
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "notes": []
+    },
     "Tối ưu hóa vận hành doanh nghiệp": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -8454,9 +8472,9 @@
       "notes": []
     },
     "Xuất khẩu nông sản": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-11-12",
       "notes": []
     },
     "Xuất khẩu thủy sản": {
