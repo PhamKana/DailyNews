@@ -999,6 +999,18 @@
         }
       ]
     },
+    "Công ty TNHH Kiểm toán và Thẩm định giá Việt Nam": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "rounds": [
+        {
+          "date": "2026-11-14",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty TNHH Kiểm toán và Tư vấn A&C": {
       "count": 1,
       "first_seen": "2026-07-23",
@@ -1148,6 +1160,18 @@
         },
         {
           "date": "2026-10-13",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Công ty cổ phần Đầu tư hợp tác kinh tế Việt Lào": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "rounds": [
+        {
+          "date": "2026-11-14",
           "investors": [],
           "round": null
         }
@@ -2638,9 +2662,9 @@
       ]
     },
     "Nvidia": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-14",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -2674,6 +2698,11 @@
         },
         {
           "date": "2026-11-11",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-14",
           "investors": [],
           "round": null
         }
@@ -4848,10 +4877,10 @@
       "last_seen": "2026-06-22"
     },
     "Nvidia": {
-      "count": 1,
+      "count": 2,
       "domain": "Bán dẫn",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-11-14"
     },
     "Năng lượng sạch": {
       "count": 1,
@@ -5524,9 +5553,9 @@
   },
   "tech": {
     "AI": {
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "AI Agent Control": {
@@ -5710,9 +5739,9 @@
       "notes": []
     },
     "Bán dẫn": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-08-09",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "C++ libraries": {
@@ -6858,9 +6887,9 @@
       "notes": []
     },
     "Bán dẫn": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-09",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "Bán lẻ trực tuyến": {
@@ -7014,9 +7043,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 64,
+      "count": 65,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7896,9 +7925,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
@@ -8154,9 +8183,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "Thương mại điện tử": {
@@ -8508,9 +8537,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-14",
       "notes": []
     },
     "Đầu tư nước ngoài": {
