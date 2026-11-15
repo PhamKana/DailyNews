@@ -557,12 +557,17 @@
       ]
     },
     "Binance": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-15",
       "rounds": [
         {
           "date": "2026-10-30",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-15",
           "investors": [],
           "round": null
         }
@@ -790,6 +795,18 @@
         }
       ]
     },
+    "California Fitness & Yoga": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "rounds": [
+        {
+          "date": "2026-11-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Capital One": {
       "count": 1,
       "first_seen": "2026-07-17",
@@ -898,6 +915,18 @@
       "rounds": [
         {
           "date": "2026-07-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Citigym": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "rounds": [
+        {
+          "date": "2026-11-15",
           "investors": [],
           "round": null
         }
@@ -2662,9 +2691,9 @@
       ]
     },
     "Nvidia": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -2703,6 +2732,11 @@
         },
         {
           "date": "2026-11-14",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-15",
           "investors": [],
           "round": null
         }
@@ -5726,6 +5760,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Bitcoin": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "notes": []
+    },
     "Block-diffusion language models": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -5898,6 +5938,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "ETF": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
       "notes": []
     },
     "Electric Motorcycles": {
@@ -6554,6 +6600,12 @@
       "last_seen": "2026-07-13",
       "notes": []
     },
+    "Tài sản số": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "notes": []
+    },
     "Tự động hóa": {
       "count": 1,
       "first_seen": "2026-10-28",
@@ -7043,9 +7095,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7925,9 +7977,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
@@ -8135,9 +8187,9 @@
       "notes": []
     },
     "Thanh khoản thị trường": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-15",
       "notes": []
     },
     "Thanh khoản thị trường vốn": {
@@ -8234,6 +8286,12 @@
       "count": 4,
       "first_seen": "2026-08-23",
       "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Thị trường tài sản rủi ro": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
       "notes": []
     },
     "Thị trường vàng": {
