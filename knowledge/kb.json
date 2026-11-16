@@ -431,9 +431,9 @@
       ]
     },
     "BIDV": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-11-16",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -457,6 +457,11 @@
         },
         {
           "date": "2026-09-11",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -1546,6 +1551,18 @@
         }
       ]
     },
+    "Gap": {
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "rounds": [
+        {
+          "date": "2026-11-16",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "General Motors": {
       "count": 1,
       "first_seen": "2026-09-18",
@@ -2207,6 +2224,18 @@
         }
       ]
     },
+    "MBBank": {
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "rounds": [
+        {
+          "date": "2026-11-16",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "MainFunc": {
       "count": 1,
       "first_seen": "2026-07-05",
@@ -2294,6 +2323,18 @@
       "rounds": [
         {
           "date": "2026-09-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Mattel": {
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "rounds": [
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -3270,9 +3311,9 @@
       ]
     },
     "Sacombank": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-11-16",
       "rounds": [
         {
           "date": "2026-07-31",
@@ -3281,6 +3322,11 @@
         },
         {
           "date": "2026-08-23",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -3620,9 +3666,9 @@
       ]
     },
     "TPBank": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-11-16",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3641,6 +3687,11 @@
         },
         {
           "date": "2026-10-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -3671,9 +3722,9 @@
       ]
     },
     "Techcombank": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-11-16",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -3702,6 +3753,11 @@
         },
         {
           "date": "2026-10-22",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -4024,9 +4080,9 @@
       ]
     },
     "Vietcombank": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-11-16",
       "rounds": [
         {
           "date": "2026-07-19",
@@ -4045,6 +4101,11 @@
         },
         {
           "date": "2026-10-18",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-16",
           "investors": [],
           "round": null
         }
@@ -6998,6 +7059,12 @@
       "last_seen": "2026-10-23",
       "notes": []
     },
+    "Chi phí vốn": {
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "notes": []
+    },
     "Chiến lược chip AI": {
       "count": 1,
       "first_seen": "2026-09-01",
@@ -7095,9 +7162,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 66,
+      "count": 67,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -8295,9 +8362,9 @@
       "notes": []
     },
     "Thị trường vàng": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-16",
       "notes": []
     },
     "Thị trường vốn": {
@@ -8595,9 +8662,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "notes": []
     },
     "Đầu tư nước ngoài": {
