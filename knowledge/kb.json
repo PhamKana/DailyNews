@@ -1293,6 +1293,18 @@
         }
       ]
     },
+    "Deloitte Việt Nam": {
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "rounds": [
+        {
+          "date": "2026-11-18",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Deutsche Bank": {
       "count": 1,
       "first_seen": "2026-07-22",
@@ -2572,6 +2584,18 @@
         }
       ]
     },
+    "Mường Thanh": {
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "rounds": [
+        {
+          "date": "2026-11-18",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "NAPAS": {
       "count": 1,
       "first_seen": "2026-08-06",
@@ -2737,9 +2761,9 @@
       ]
     },
     "Nvidia": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -2788,6 +2812,11 @@
         },
         {
           "date": "2026-11-17",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-18",
           "investors": [],
           "round": null
         }
@@ -4999,10 +5028,10 @@
       "last_seen": "2026-06-22"
     },
     "Nvidia": {
-      "count": 2,
+      "count": 3,
       "domain": "Bán dẫn",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-18"
     },
     "Năng lượng sạch": {
       "count": 1,
@@ -5675,9 +5704,9 @@
   },
   "tech": {
     "AI": {
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "AI Agent Control": {
@@ -5921,9 +5950,9 @@
       "notes": []
     },
     "Chip bán dẫn": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "Chuyển đổi số": {
@@ -6979,9 +7008,9 @@
       "notes": []
     },
     "An ninh năng lượng": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "Autonomy Stack": {
@@ -7027,9 +7056,9 @@
       "notes": []
     },
     "Bán dẫn": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-09",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "Bán lẻ trực tuyến": {
@@ -7189,9 +7218,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7986,6 +8015,12 @@
       "last_seen": "2026-07-30",
       "notes": []
     },
+    "Pháp lý đô thị": {
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "notes": []
+    },
     "Phát triển doanh nghiệp": {
       "count": 1,
       "first_seen": "2026-10-13",
@@ -8071,9 +8106,9 @@
       "notes": []
     },
     "Quản trị doanh nghiệp": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "notes": []
     },
     "Quản trị doanh nghiệp gia đình": {
