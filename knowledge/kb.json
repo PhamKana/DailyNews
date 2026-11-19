@@ -1187,6 +1187,18 @@
         }
       ]
     },
+    "Công ty cổ phần Đá Hoàng Mai": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "rounds": [
+        {
+          "date": "2026-11-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Đầu tư Quốc tế Hoàng Anh Gia Lai": {
       "count": 2,
       "first_seen": "2026-08-05",
@@ -2685,6 +2697,18 @@
         },
         {
           "date": "2026-10-24",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Ngân hàng TMCP Nam Á": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "rounds": [
+        {
+          "date": "2026-11-19",
           "investors": [],
           "round": null
         }
@@ -7218,9 +7242,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -8388,9 +8412,9 @@
       "notes": []
     },
     "Thị trường chứng khoán": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-19",
       "notes": []
     },
     "Thị trường dầu mỏ": {
@@ -8592,9 +8616,9 @@
       "notes": []
     },
     "Tăng trưởng kinh tế": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-19",
       "notes": []
     },
     "Tăng trưởng kinh tế địa phương": {
@@ -8622,9 +8646,9 @@
       "notes": []
     },
     "Tỷ giá": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-11-19",
       "notes": []
     },
     "Tỷ giá và ngoại hối": {
@@ -8661,6 +8685,12 @@
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Vàng": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
       "notes": []
     },
     "Vật liệu xanh": {
