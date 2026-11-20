@@ -2702,6 +2702,18 @@
         }
       ]
     },
+    "Ngân hàng TMCP An Bình": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "rounds": [
+        {
+          "date": "2026-11-20",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Ngân hàng TMCP Nam Á": {
       "count": 1,
       "first_seen": "2026-11-19",
@@ -7242,9 +7254,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7512,9 +7524,9 @@
       "notes": []
     },
     "FDI": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-20",
       "notes": []
     },
     "FDI Policy": {
@@ -7785,6 +7797,12 @@
       "count": 2,
       "first_seen": "2026-08-16",
       "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "Luật doanh nghiệp": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
       "notes": []
     },
     "Lãi suất": {
@@ -8454,9 +8472,9 @@
       "notes": []
     },
     "Thị trường vàng": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-20",
       "notes": []
     },
     "Thị trường vốn": {
@@ -8760,9 +8778,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-20",
       "notes": []
     },
     "Đầu tư nước ngoài": {
