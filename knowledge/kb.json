@@ -7125,9 +7125,9 @@
       "notes": []
     },
     "Biến đổi khí hậu": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-11-23",
       "notes": []
     },
     "Biến động thị trường tài chính toàn cầu": {
@@ -7581,9 +7581,9 @@
       "notes": []
     },
     "FDI": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-23",
       "notes": []
     },
     "FDI Policy": {
@@ -7659,9 +7659,9 @@
       "notes": []
     },
     "Giá vàng": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-23",
       "notes": []
     },
     "Giá điện": {
@@ -8475,9 +8475,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-23",
       "notes": []
     },
     "Thương mại điện tử": {
