@@ -4044,6 +4044,20 @@
         }
       ]
     },
+    "Tâm Anh": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "rounds": [
+        {
+          "date": "2026-11-25",
+          "investors": [
+            "UKEF"
+          ],
+          "round": null
+        }
+      ]
+    },
     "Tập đoàn Lộc Trời": {
       "count": 1,
       "first_seen": "2026-08-12",
@@ -4201,6 +4215,20 @@
         {
           "date": "2026-09-27",
           "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "VNVC": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "rounds": [
+        {
+          "date": "2026-11-25",
+          "investors": [
+            "UKEF"
+          ],
           "round": null
         }
       ]
@@ -5629,6 +5657,12 @@
       "count": 1,
       "first_seen": "2026-07-17",
       "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "UKEF": {
+      "count": 2,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "V": {
@@ -7171,6 +7205,12 @@
       "last_seen": "2026-11-06",
       "notes": []
     },
+    "Bảo lãnh tài chính": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "notes": []
+    },
     "Bất động sản": {
       "count": 6,
       "first_seen": "2026-07-31",
@@ -7328,9 +7368,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 72,
+      "count": 73,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -7897,6 +7937,12 @@
       "last_seen": "2026-11-20",
       "notes": []
     },
+    "Luật Đất đai": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "notes": []
+    },
     "Lãi suất": {
       "count": 11,
       "first_seen": "2026-07-22",
@@ -8129,6 +8175,12 @@
       "count": 1,
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-19",
+      "notes": []
+    },
+    "Petrodollar": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Physical Infrastructure Control": {
@@ -8474,9 +8526,9 @@
       "notes": []
     },
     "Thanh toán xuyên biên giới": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Thoái vốn nhà nước": {
