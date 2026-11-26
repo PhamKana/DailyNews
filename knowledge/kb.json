@@ -1091,6 +1091,18 @@
         }
       ]
     },
+    "Công ty cổ phần Cao su Đồng Phú": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "rounds": [
+        {
+          "date": "2026-11-26",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Công ty cổ phần Chế biến Thực phẩm Nông sản Xuất khẩu Nam Định": {
       "count": 1,
       "first_seen": "2026-09-19",
@@ -4931,6 +4943,12 @@
       "first_seen": "2026-08-09",
       "last_seen": "2026-11-11"
     },
+    "CBAM": {
+      "count": 1,
+      "domain": "Công nghệ xanh/Thương mại",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26"
+    },
     "Contextual Emotion AI": {
       "count": 1,
       "domain": "AI/Cognitive Science",
@@ -5830,9 +5848,9 @@
   },
   "tech": {
     "AI": {
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-26",
       "notes": []
     },
     "AI Agent Control": {
@@ -6999,6 +7017,12 @@
       "last_seen": "2026-10-23",
       "notes": []
     },
+    "Điện toán lượng tử": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "notes": []
+    },
     "Điện địa nhiệt": {
       "count": 1,
       "first_seen": "2026-10-14",
@@ -7368,9 +7392,9 @@
       "notes": []
     },
     "Chính sách tiền tệ": {
-      "count": 73,
+      "count": 74,
       "first_seen": "2026-07-19",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "notes": []
     },
     "Chính sách tài chính xanh": {
@@ -8225,6 +8249,12 @@
       "last_seen": "2026-10-14",
       "notes": []
     },
+    "Phân hóa thị trường chứng khoán": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "notes": []
+    },
     "Policy & Geopolitics": {
       "count": 1,
       "first_seen": "2026-06-28",
@@ -8393,6 +8423,12 @@
       "last_seen": "2026-07-22",
       "notes": []
     },
+    "Rủi ro tín dụng nông nghiệp": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "notes": []
+    },
     "SEA Fintech": {
       "count": 4,
       "first_seen": "2026-06-29",
@@ -8550,9 +8586,9 @@
       "notes": []
     },
     "Thương mại quốc tế": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-26",
       "notes": []
     },
     "Thương mại điện tử": {
@@ -8934,9 +8970,9 @@
       "notes": []
     },
     "Đầu tư công": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-26",
       "notes": []
     },
     "Đầu tư nước ngoài": {
